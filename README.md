@@ -26,5 +26,7 @@ Attention: The first-level directories in the folder must be category names. For
 ## 2. Run **build_pickle.py**
 Edit folder_path too.
 
+***
 *keyword_list.txt is keyword list file* 
+
 *Put doc2vec model in /model* 
